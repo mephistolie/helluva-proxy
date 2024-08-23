@@ -1,3 +1,4 @@
+# YouTube
 DOMAIN-KEYWORD,ytimg
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,gstatic
@@ -7,3 +8,6 @@ DOMAIN-KEYWORD,ggpht
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,apis.google.com
+
+# Google Play
+DOMAIN-SUFFIX,play.google.com
