@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,meta.com
+
+# Instagram
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,ig.me
+
+# Facebook
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,cdnfbsbx.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,f.vision
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fburl.com
