@@ -9,8 +9,10 @@ DOMAIN-KEYWORD,ggpht
 DOMAIN-KEYWORD,gvt1
 DOMAIN-KEYWORD,gvt2
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,yt-video-upload.l.google.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtubeeducation.com
@@ -26,6 +28,7 @@ DOMAIN-SUFFIX,youtubego.in
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,video.google.com
