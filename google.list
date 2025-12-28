@@ -1,5 +1,6 @@
 # YouTube
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,youtubego
 DOMAIN-KEYWORD,ytimg
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,gstatic
@@ -8,8 +9,7 @@ DOMAIN-KEYWORD,googleusercontent
 DOMAIN-KEYWORD,ggpht
 DOMAIN-KEYWORD,gvt1
 DOMAIN-KEYWORD,gvt2
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ytimg.l.google.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,yt-video-upload.l.google.com
@@ -17,21 +17,19 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubefanfest.com
 DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubego.co.id
-DOMAIN-SUFFIX,youtubego.co.in
-DOMAIN-SUFFIX,youtubego.com
-DOMAIN-SUFFIX,youtubego.com.br
-DOMAIN-SUFFIX,youtubego.id
-DOMAIN-SUFFIX,youtubego.in
-DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,accounts.youtube.com
+
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 
