@@ -1,2 +1,0 @@
-AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP))
-AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP))
